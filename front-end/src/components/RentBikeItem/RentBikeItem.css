@@ -1,0 +1,15 @@
+.itemBike {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+    vertical-align: middle;
+    justify-content: space-between;
+}
+
+.descriptionBike {
+    margin-top: 7px;
+}
+
+.rentItem {
+    width: 33.33%;
+}

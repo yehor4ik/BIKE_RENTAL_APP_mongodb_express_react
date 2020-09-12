@@ -1,0 +1,16 @@
+.descriptionBike {
+    margin-top: 7px;
+    width: 75%;
+}
+
+.rightRent {
+    width: 25%;
+}
+
+.listButton {
+    width: 105px;
+}
+
+.listButton + .listButton {
+    margin-left: 30px;
+}

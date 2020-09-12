@@ -1,0 +1,31 @@
+.createForm {
+    padding-top: 30px;
+}
+
+.form {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #E9EAEE;
+}
+
+.formNameBike {
+    padding: 5px 15px;
+    width: 250px;
+}
+
+.dropDownList {
+    padding: 5px 15px;
+    width: 250px;
+}
+
+.formBikeName {
+    padding: 5px 15px;
+    width: 165px;
+}
+
+.formWidth {
+    width: 15%;
+    text-align: end;
+}

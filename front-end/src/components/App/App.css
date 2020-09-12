@@ -1,0 +1,18 @@
+body {
+    background-color: #F5F5F5;
+    position: relative;
+    height: 100%;
+}
+
+p {
+    margin: 0;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+} 
+
+.app {
+    padding: 40px;
+}

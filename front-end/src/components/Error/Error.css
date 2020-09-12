@@ -1,0 +1,15 @@
+.mainError {
+    margin-top: 50px;
+    position: absolute;
+    text-align: center;
+    left: 35%;
+    top: 50%;
+}
+
+.errorDescription {
+    padding-top: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: red;
+    font-size: 20px;
+}
